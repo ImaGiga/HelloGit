@@ -6,6 +6,7 @@ class ViewController: UIViewController {
 	@IBAction func tapButton(_ sender: Any) {
 		centerLabel.text = "tapped"
 	}
+	
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		print("Hello Git")
