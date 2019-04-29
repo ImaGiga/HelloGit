@@ -7,6 +7,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		print("Hello Git")
 		centerLabel.text = "12345"
+		//TODO: - make button
 	}
 }
 
