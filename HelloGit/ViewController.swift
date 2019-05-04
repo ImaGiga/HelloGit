@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
+		print("Hello Git")
 		centerLabel.text = "12345"
 	}
 }
