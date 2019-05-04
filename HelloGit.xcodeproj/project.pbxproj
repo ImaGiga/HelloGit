@@ -11,6 +11,7 @@
 		95383B842276CE2B00B9C5B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95383B832276CE2B00B9C5B8 /* ViewController.swift */; };
 		95383B872276CE2B00B9C5B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95383B852276CE2B00B9C5B8 /* Main.storyboard */; };
 		95383B892276CE2D00B9C5B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95383B882276CE2D00B9C5B8 /* Assets.xcassets */; };
+		953AB5E7227D574B00CDAB08 /* Gitメモ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 953AB5E6227D574B00CDAB08 /* Gitメモ.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		95383B862276CE2B00B9C5B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		95383B882276CE2D00B9C5B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95383B8D2276CE2D00B9C5B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		953AB5E6227D574B00CDAB08 /* Gitメモ.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Gitメモ.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				95383B832276CE2B00B9C5B8 /* ViewController.swift */,
 				95383B852276CE2B00B9C5B8 /* Main.storyboard */,
 				95383B882276CE2D00B9C5B8 /* Assets.xcassets */,
+				953AB5E6227D574B00CDAB08 /* Gitメモ.txt */,
 				95383B8D2276CE2D00B9C5B8 /* Info.plist */,
 			);
 			path = HelloGit;
@@ -121,6 +124,7 @@
 			files = (
 				95383B892276CE2D00B9C5B8 /* Assets.xcassets in Resources */,
 				95383B872276CE2B00B9C5B8 /* Main.storyboard in Resources */,
+				953AB5E7227D574B00CDAB08 /* Gitメモ.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
